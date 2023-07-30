@@ -1,0 +1,23 @@
+{
+  "name": "timesnap",
+  "version": "1.0.0",
+  "description": "TimeSnap is a captivating mobile app that allows users to explore historical events from any date. With a seamless and user-friendly interface, TimeSnap provides a journey through time, unveiling intriguing moments and captivating stories from different eras.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshrafZohdi/TimeSnap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshrafZohdi/TimeSnap/issues"
+  },
+  "homepage": "https://github.com/AshrafZohdi/TimeSnap#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
